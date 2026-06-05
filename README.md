@@ -106,6 +106,3 @@ Cross-validation was used to improve generalization and obtain robust performanc
 
 ---
 
-## Author
-
-**Dhanush Poduval**
